@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Antoine\Desktop
+Ecomparateur
+Z0 w1484641312
+Z1 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z2 dC:\Users\Antoine\Documents\VHDL\TP\comparateur_aff
+Z3 8C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur.vhd
+Z4 FC:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur.vhd
+l0
+L17
+V7Ha`clcAg`>GzZ_0NYfJJ3
+Z5 OV;C;6.6d;45
+32
+Z6 o-work work -2002 -explicit -O0
+Z7 tExplicit 1
+!s100 Mo3Eg[Z0;dcNeL0O8P3I?2
+Abeh
+R1
+DEx4 work 11 comparateur 0 22 7Ha`clcAg`>GzZ_0NYfJJ3
+l25
+L24
+VzV^bJ]zbUo@400WFD35Pl1
+R5
+32
+Z8 Mx1 4 ieee 14 std_logic_1164
+R6
+R7
+!s100 @8ZJkGJGi9<_ozZF47V^h3
+Ecomparateur_aff
+Z9 w1484647735
+R1
+R2
+Z10 8C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur_aff.vhd
+Z11 FC:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur_aff.vhd
+l0
+L17
+VzPKo=R7D15<K1246=SeEY2
+!s100 Zzhe8PQFm_4cHColB4Q0K2
+R5
+32
+R6
+R7
+Astruct
+R1
+DEx4 work 15 comparateur_aff 0 22 zPKo=R7D15<K1246=SeEY2
+l51
+L31
+VDV:@EU6IbLWWldRO3NeL>0
+!s100 7?<VA9XT[3ibi]fbHmZbK1
+R5
+32
+R8
+R6
+R7
+Etrans_hexa_7seg
+Z12 w1484644156
+R1
+R2
+Z13 8C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/trans_hexa_7seg.vhd
+Z14 FC:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/trans_hexa_7seg.vhd
+l0
+L17
+VSmo7?UTVJ?Qz3U9nJKmR93
+R5
+32
+R6
+R7
+!s100 I;koX`U@193>GnkUlCT?;2
+Abeh
+R1
+DEx4 work 15 trans_hexa_7seg 0 22 Smo7?UTVJ?Qz3U9nJKmR93
+l25
+L24
+V8X0a5AGeaca2cAdg=^z[>1
+!s100 ecQ3H8JOG1^biBPBK385=1
+R5
+32
+R8
+R6
+R7

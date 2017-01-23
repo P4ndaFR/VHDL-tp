@@ -1,0 +1,15 @@
+C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur.vhd {1 {vcom -work work -2002 -explicit C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/comparateur.vhd
+Model Technology ModelSim ALTERA vcom 6.6d Compiler 2010.11 Nov  2 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity comparateur
+-- Compiling architecture beh of comparateur
+
+} {} {}} C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/trans_hexa_7seg.vhd {1 {vcom -work work -2002 -explicit C:/Users/Antoine/Documents/VHDL/TP/comparateur_aff/trans_hexa_7seg.vhd
+Model Technology ModelSim ALTERA vcom 6.6d Compiler 2010.11 Nov  2 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity trans_hexa_7seg
+-- Compiling architecture beh of trans_hexa_7seg
+
+} {} {}}

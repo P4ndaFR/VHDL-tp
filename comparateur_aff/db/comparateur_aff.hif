@@ -1,0 +1,143 @@
+Quartus II 64-Bit
+Version 10.1 Build 197 01/19/2011 Service Pack 1 SJ Web Edition
+14
+1046
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+comparateur
+# storage
+db|comparateur_aff.(1).cnf
+db|comparateur_aff.(1).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+comparateur.vhd
+a720f3b65d076b9c9d7ccefd29d1bd7
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# user_parameter {
+ constraint(a)
+3 downto 0
+PARAMETER_STRING
+USR
+ constraint(b)
+3 downto 0
+PARAMETER_STRING
+USR
+}
+# hierarchies {
+comparateur:COMP1
+}
+# lmf
+|altera|10.1sp1|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+trans_hexa_7seg
+# storage
+db|comparateur_aff.(2).cnf
+db|comparateur_aff.(2).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+trans_hexa_7seg.vhd
+57b1947c6c7db0859091370176f7c9e
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# user_parameter {
+ constraint(code_e)
+3 downto 0
+PARAMETER_STRING
+USR
+ constraint(code_s)
+6 downto 0
+PARAMETER_STRING
+USR
+}
+# hierarchies {
+trans_hexa_7seg:TRANS1
+trans_hexa_7seg:TRANS2
+}
+# lmf
+|altera|10.1sp1|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+comparateur_aff
+# storage
+db|comparateur_aff.(0).cnf
+db|comparateur_aff.(0).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+comparateur_aff.vhd
+9186c1a6f1331a8f12f33aab81d5f098
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+|
+}
+# lmf
+|altera|10.1sp1|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# complete
+
